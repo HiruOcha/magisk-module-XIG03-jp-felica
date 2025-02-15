@@ -1,10 +1,9 @@
-ro.product.model=23076RA4BR
-ro.product.cert=23076RA4BR
-ro.product.system.model=23076RA4BR
-ro.product.vendor.model=23076RA4BR
-ro.product.product.model=23076RA4BR
-ro.product.product.model=23076RA4BR
-ro.product.odm.model=23076RA4BR
-ro.product.system_ext.model=23076RA4BR
+ro.product.model=XIG03
+ro.product.cert=XIG03
+ro.product.system.model=missi system image for arm64
+ro.product.vendor.model=XIG03
+ro.product.product.model=miproduct
+ro.product.odm.model=XIG03
+ro.product.system_ext.model=missi system image for arm64
 ro.miui.build.region=jp
 ro.vendor.se.type=eSE,HCE,UICC
