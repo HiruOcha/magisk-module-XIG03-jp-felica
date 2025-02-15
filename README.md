@@ -1,5 +1,5 @@
 #### Felica Enabler for sky
-Felica enable patch for 23076RA4BR users.
+Felica enable patch for XIG03 users.
 
 #### NOTICE
 
